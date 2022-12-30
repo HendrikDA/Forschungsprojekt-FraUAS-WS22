@@ -1,5 +1,83 @@
-[0] Config.pm:304> INFO - This is Biber 2.14
-[0] Config.pm:307> INFO - Logfile is '/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.blg'
-[46] biber-darwin:322> INFO - === Fri Dec 30, 2022, 18:18:12
-[150] Utils.pm:320> ERROR - Cannot find '/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.bcf'!
-[150] Biber.pm:132> INFO - ERRORS: 1
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: /Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: frontbackmatter/Titlepage.aux
+A level-1 auxiliary file: frontbackmatter/Titleback.aux
+A level-1 auxiliary file: frontbackmatter/Declaration.aux
+A level-1 auxiliary file: frontbackmatter/AbstractEN.aux
+A level-1 auxiliary file: frontbackmatter/Contents.aux
+A level-1 auxiliary file: frontbackmatter/Figures.aux
+A level-1 auxiliary file: frontbackmatter/Tables.aux
+A level-1 auxiliary file: frontbackmatter/Acronyms.aux
+A level-1 auxiliary file: chapters/chapter_Intro.aux
+A level-1 auxiliary file: chapters/chapter_Background.aux
+A level-1 auxiliary file: chapters/chapter_SOTA.aux
+A level-1 auxiliary file: chapters/chapter_Method.aux
+A level-1 auxiliary file: chapters/chapter_zzz_example.aux
+A level-1 auxiliary file: chapters/chapter_Experiments.aux
+A level-1 auxiliary file: chapters/chapter_Conclusion.aux
+A level-1 auxiliary file: appendix/appendix01.aux
+A level-1 auxiliary file: appendix/appendix02.aux
+A level-1 auxiliary file: frontbackmatter/Bibliography.aux
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: thesis-blx.bib
+Database file #2: ../bibliography.bib
+Biblatex version: 3.13
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 3 entries,
+            6365 wiz_defined-function locations,
+            1225 strings with 9828 characters,
+and the built_in function-call counts, 13064 in all, are:
+= -- 829
+> -- 298
+< -- 69
++ -- 337
+- -- 117
+* -- 902
+:= -- 1566
+add.period$ -- 0
+call.type$ -- 3
+change.case$ -- 2
+chr.to.int$ -- 44
+cite$ -- 4
+duplicate$ -- 1323
+empty$ -- 1132
+format.name$ -- 140
+if$ -- 2709
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 0
+newline$ -- 85
+num.names$ -- 93
+pop$ -- 746
+preamble$ -- 1
+purify$ -- 38
+quote$ -- 0
+skip$ -- 479
+stack$ -- 0
+substring$ -- 1325
+swap$ -- 317
+text.length$ -- 83
+text.prefix$ -- 2
+top$ -- 1
+type$ -- 90
+warning$ -- 0
+while$ -- 241
+width$ -- 0
+write$ -- 83
