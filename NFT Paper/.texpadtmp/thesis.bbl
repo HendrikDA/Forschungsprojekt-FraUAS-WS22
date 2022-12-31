@@ -81,5 +81,67 @@
     \field{journaltitle}{Business \& Information Systems Engineering}
     \field{year}{2017}
   \endentry
+
+  \entry{smartContracts}{article}{}
+    \name{author}{7}{}{%
+      {{hash=ZZ}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Zibin},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=XS}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={Shaoan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DHN}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={Hong-Ning},
+         giveni={H\bibinithyphendelim N\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Weili},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CX}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Xiangping},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Weng},
+         familyi={W\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=IM}{%
+         family={Imran},
+         familyi={I\bibinitperiod},
+         given={Muhammad},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{ZZ+1}
+    \strng{fullhash}{ZZXSDHNCWCXWJIM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{pages}{475\bibrangedash 491}
+    \field{title}{An overview on smart contracts: Challenges, advances and
+  platforms}
+    \field{volume}{105}
+    \field{journaltitle}{Future Generation Computer Systems}
+    \field{year}{2020}
+  \endentry
 \enddatalist
 \endinput
