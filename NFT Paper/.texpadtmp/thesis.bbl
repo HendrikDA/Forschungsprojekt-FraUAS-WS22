@@ -82,6 +82,45 @@
     \field{year}{2017}
   \endentry
 
+  \entry{nftOverview}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qin},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Rujia},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qi},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Shiping},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WQ+1}
+    \strng{fullhash}{WQLRWQCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Non-fungible token (NFT): Overview, evaluation, opportunities
+  and challenges}
+    \field{journaltitle}{arXiv preprint arXiv:2105.07447}
+    \field{year}{2021}
+  \endentry
+
   \entry{smartContracts}{article}{}
     \name{author}{7}{}{%
       {{hash=ZZ}{%
