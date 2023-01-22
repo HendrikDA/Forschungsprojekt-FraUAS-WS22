@@ -16,7 +16,7 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}
+\datalist[entry]{none/global//global/global}
   \entry{bitcoin}{article}{}
     \name{author}{1}{}{%
       {{hash=NS}{%
@@ -30,8 +30,6 @@
     \strng{fullhash}{NS1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{N}
-    \field{sortinithash}{N}
     \field{pages}{21260}
     \field{title}{Bitcoin: A peer-to-peer electronic cash system}
     \field{journaltitle}{Decentralized Business Review}
@@ -72,53 +70,12 @@
     \strng{fullhash}{NMGPHOSD1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{N}
-    \field{sortinithash}{N}
     \field{number}{3}
     \field{pages}{183\bibrangedash 187}
     \field{title}{Blockchain}
     \field{volume}{59}
     \field{journaltitle}{Business \& Information Systems Engineering}
     \field{year}{2017}
-  \endentry
-
-  \entry{nftOverview}{article}{}
-    \name{author}{4}{}{%
-      {{hash=WQ}{%
-         family={Wang},
-         familyi={W\bibinitperiod},
-         given={Qin},
-         giveni={Q\bibinitperiod},
-      }}%
-      {{hash=LR}{%
-         family={Li},
-         familyi={L\bibinitperiod},
-         given={Rujia},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=WQ}{%
-         family={Wang},
-         familyi={W\bibinitperiod},
-         given={Qi},
-         giveni={Q\bibinitperiod},
-      }}%
-      {{hash=CS}{%
-         family={Chen},
-         familyi={C\bibinitperiod},
-         given={Shiping},
-         giveni={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{WQ+1}
-    \strng{fullhash}{WQLRWQCS1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{W}
-    \field{sortinithash}{W}
-    \field{title}{Non-fungible token (NFT): Overview, evaluation, opportunities
-  and challenges}
-    \field{journaltitle}{arXiv preprint arXiv:2105.07447}
-    \field{year}{2021}
   \endentry
 
   \entry{smartContracts}{article}{}
@@ -173,13 +130,101 @@
     \strng{fullhash}{ZZXSDHNCWCXWJIM1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{Z}
-    \field{sortinithash}{Z}
     \field{pages}{475\bibrangedash 491}
     \field{title}{An overview on smart contracts: Challenges, advances and
   platforms}
     \field{volume}{105}
     \field{journaltitle}{Future Generation Computer Systems}
+    \field{year}{2020}
+  \endentry
+
+  \entry{nftOverview}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qin},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Rujia},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qi},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Shiping},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WQ+1}
+    \strng{fullhash}{WQLRWQCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Non-fungible token (NFT): Overview, evaluation, opportunities
+  and challenges}
+    \field{journaltitle}{arXiv preprint arXiv:2105.07447}
+    \field{year}{2021}
+  \endentry
+
+  \entry{wallets1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KK}{%
+         family={Karantias},
+         familyi={K\bibinitperiod},
+         given={Kostis},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KK1}
+    \strng{fullhash}{KK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Sok: A taxonomy of cryptocurrency wallets}
+    \field{journaltitle}{Cryptology ePrint Archive}
+    \field{year}{2020}
+  \endentry
+
+  \entry{wallets2}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=SS}{%
+         family={Suratkar},
+         familyi={S\bibinitperiod},
+         given={Saurabh},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Shirole},
+         familyi={S\bibinitperiod},
+         given={Mahesh},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bhirud},
+         familyi={B\bibinitperiod},
+         given={Sunil},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{SSSMBS1}
+    \strng{fullhash}{SSSMBS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2020 4th International Conference on Computer,
+  Communication and Signal Processing (ICCCSP)}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{Cryptocurrency wallet: A review}
     \field{year}{2020}
   \endentry
 \enddatalist

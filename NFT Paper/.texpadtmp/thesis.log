@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  1 JAN 2023 16:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  21 JAN 2023 12:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -734,7 +734,7 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
-Package scrhack Info: loading listings hack on input line 156.
+Package scrhack Info: loading listings hack on input line 158.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/listings.hak
 File: listings.hak 2020/01/24 v3.29 KOMA-Script scrhack part (hacking package listings)
 Package tocbasic Info: setting babel extension for `lol' on input line 137.
@@ -764,7 +764,7 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of KOMA-Script class, that doesn't
-(scrhack)             need that hack, on input line 190.
+(scrhack)             need that hack, on input line 192.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
  (/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
@@ -841,14 +841,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip106
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 212.
-Package hyperref Info: Option `linktocpage' set `true' on input line 212.
-Package hyperref Info: Option `breaklinks' set `true' on input line 212.
-Package hyperref Info: Option `pageanchor' set `true' on input line 212.
-Package hyperref Info: Option `plainpages' set `false' on input line 212.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 212.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 212.
-Package hyperref Info: Option `hypertexnames' set `true' on input line 212.
+Package hyperref Info: Option `colorlinks' set `true' on input line 214.
+Package hyperref Info: Option `linktocpage' set `true' on input line 214.
+Package hyperref Info: Option `breaklinks' set `true' on input line 214.
+Package hyperref Info: Option `pageanchor' set `true' on input line 214.
+Package hyperref Info: Option `plainpages' set `false' on input line 214.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 214.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 214.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 214.
  (./classicthesis.sty
 Package: classicthesis 2017/10/13 v4.4 Typographic style for a classic-looking thesis
  (/usr/local/texlive/2020/texmf-dist/tex/latex/base/latexrelease.sty
@@ -1740,6 +1740,11 @@ Overfull \hbox (26.01747pt too wide) in paragraph at lines 15--15
 []\T1/pplj/m/n/10.95 Michael Nofer, Pe-ter Gomber, Oliver Hinz, and Dirk Schiereck. ^^P  Blockchain.^^Q
  []
 
+
+Overfull \hbox (1.50583pt too wide) in paragraph at lines 15--15
+[]\T1/pplj/m/n/10.95 Kostis Karan-tias. ^^P  Sok: A tax-on-omy of cryp-tocur-rency wal-lets.^^Q In: \T1/pplj/m/it/10.95 Cryp-
+ []
+
 ) [10
 
 
@@ -1978,18 +1983,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 57 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 38575 strings out of 480608
- 759294 string characters out of 5903630
- 1664063 words of memory out of 5000000
- 53492 multiletter control sequences out of 15000+600000
+ 38585 strings out of 480608
+ 759608 string characters out of 5903630
+ 1664172 words of memory out of 5000000
+ 53500 multiletter control sequences out of 15000+600000
  608909 words of font info for 137 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 73i,22n,91p,10101b,23917s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,22n,91p,10101b,23919s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (18 pages, 155477 bytes).
+Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (18 pages, 157659 bytes).
 PDF statistics:
- 315 PDF objects out of 1000 (max. 8388607)
- 268 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
+ 321 PDF objects out of 1000 (max. 8388607)
+ 274 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
  18794 words of extra memory for PDF output out of 20736 (max. 10000000)
 

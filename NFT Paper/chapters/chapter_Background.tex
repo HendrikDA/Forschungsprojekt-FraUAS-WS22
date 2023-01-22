@@ -50,13 +50,24 @@ For example, when buying a sneaker in an online store, it is feasible to receive
 
 A common use-case of NFTs is to utilize them as an investment tool. Because NFTs have a price attached to them, it is possible to sell them at a higher price than what they were bought for. However, in the realms of this paper, NFTs will not be considered as an investment asset, but rather as a data-tracking mechanism. % Todo: This paragraph is butchered. I was writing it at the main table in Madeira. Have fun rewriting it sucker lmao 01.01.23
 
-
 %
 % Section: Wallets
 %
 \section{Cryptocurrency Wallets}
 \label{sec:background:wallets}
 
+% Todo: How the public / private key stuff works with wallets
+Having tangible proof of ownership is what makes NFTs valuable. A cryptocurrency wallet serves the main function of allowing access to the data on a blockchain and transferring cryptocurrencies between two parties \cite{wallets1}.
+
+As mentioned in section \ref{sec:background:blockchain}, blockchain data is not stored in a central manner. This means that cryptocurrencies and NFTs are not stored inside of the wallet itself. Rather, a wallet gives a user a public and private key pair. This public key is then encoded into the NFT on the blockchain when a transaction takes place. With a public key encoded into the NFT's transaction history, the corresponding user can verify ownership by owning the associated private key. In order to access the wallet, a user must associate a password with the private key. \cite{wallets2}
+
+Wallets also allow users to see their account balances and to execute transactions. 
+
+Should a user forget or lose their private-key, then they lose access to their wallet without the possibility of recovery. The wallet and its contents are thus inaccessible. \cite{wallets2}
+
+Todo: Allowing third parties to access and look into the wallet?
+
+Cryptocurrency wallets are thus the gateway to any blockchain. They are the center pieces of any type of interaction with NFTs.
 
 %
 % Section: Cookies
