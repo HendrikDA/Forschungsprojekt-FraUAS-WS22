@@ -17,6 +17,51 @@
 \endgroup
 
 \datalist[entry]{none/global//global/global}
+  \entry{previousWebIterations}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=FS}{%
+         family={Filip{\v{c}}i{\'c}},
+         familyi={F\bibinitperiod},
+         given={S},
+         giveni={S},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{FS1}
+    \strng{fullhash}{FS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2022 45th Jubilee International Convention on
+  Information, Communication and Electronic Technology (MIPRO)}
+    \field{pages}{1278\bibrangedash 1283}
+    \field{title}{Web3 \& DAOs: an overview of the development and
+  possibilities for the implementation in research and education}
+    \field{year}{2022}
+  \endentry
+
+  \entry{dapps}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RS}{%
+         family={Raval},
+         familyi={R\bibinitperiod},
+         given={Siraj},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {" O'Reilly Media, Inc."}%
+    }
+    \strng{namehash}{RS1}
+    \strng{fullhash}{RS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Decentralized applications: harnessing Bitcoin's blockchain
+  technology}
+    \field{year}{2016}
+  \endentry
+
   \entry{bitcoin}{article}{}
     \name{author}{1}{}{%
       {{hash=NS}{%
@@ -226,6 +271,13 @@
     \field{pages}{1\bibrangedash 7}
     \field{title}{Cryptocurrency wallet: A review}
     \field{year}{2020}
+  \endentry
+
+  \entry{walletConnect}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://walletconnect.com/products}}
+    \field{note}{Accessed: 2023-01-22}
+    \field{title}{WalletConnect, Inc}
   \endentry
 \enddatalist
 \endinput

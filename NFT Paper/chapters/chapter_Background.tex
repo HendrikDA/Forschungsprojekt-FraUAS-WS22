@@ -1,6 +1,6 @@
 \chapter{Background Information}
 \label{ch:background}
-In order to discuss possible ways to track user data using NFTs, it is important to gain an overview of the required technologies behind NFTs. These technologies are blockchain, smart contracts, NFTs themselves and cryptocurrency wallets. After these technologies, the function of cookies and how they are implemented in order to track user data is briefly discussed.
+In order to discuss possible ways to track user data using NFTs, it is important to gain an overview of both the big picture beyond NFTs and the required technologies behind NFTs. These technologies are blockchain, smart contracts, NFTs themselves and cryptocurrency wallets. After these technologies are introduced, the function of cookies and how they are implemented in order to track user data is briefly discussed.
 
 
 % Overview of what blockchain is
@@ -12,6 +12,19 @@ In order to discuss possible ways to track user data using NFTs, it is important
 % What kind of user data is tracked online?
 
 % \cite{bitcoin} \cite{blockchain}
+
+%
+% Section: Web3
+%
+\section{Web3}
+\label{sec:background:web3}
+Previous iterations of the web include the original web, consisting of basic and static websites. Users did not have the possibility to interact with the content of websites in this original state of the internet. Web2 gave rise to a more interactive kind of web. This meant user generated content was at the center of the internet. Social media was born out of Web2. \cite{previousWebIterations}
+
+
+Websites in the era before Web3 fell under the standard client-server model. Here the program or website runs on a server, with which the client is connected to and sends requests to. All of the connecting clients are dependant on this central server, through which all bits of information must pass through. \cite{dapps}
+
+This centralized architecture served well for the first two iterations of the web. However, Web3 calls for decentralization, giving birth to decentralized applications (dapps). These applications no longer run on a single server, but rather on the blockchain itself. The advantage of this is that the benefits of the blockchain, such as availability and security, are baked right into the dapp. \cite{dapps}
+
 
 %
 % Section: Overview of Blockchain
@@ -65,7 +78,7 @@ Wallets also allow users to see their account balances and to execute transactio
 
 Should a user forget or lose their private-key, then they lose access to their wallet without the possibility of recovery. The wallet and its contents are thus inaccessible. \cite{wallets2}
 
-Todo: Allowing third parties to access and look into the wallet?
+With the rise of Web3, many applications are being created with the use of wallets in mind. Later in section \ref{sec:sota:products}, we will discuss what current products are on the market that fall within the realm of this paper. An important use-cases of wallets, beyond directly communicating with the blockchain, is the use of single-sign on for Web3 websites \cite{walletConnect}.
 
 Cryptocurrency wallets are thus the gateway to any blockchain. They are the center pieces of any type of interaction with NFTs.
 
@@ -74,6 +87,7 @@ Cryptocurrency wallets are thus the gateway to any blockchain. They are the cent
 %
 \section{Cookies}
 \label{sec:background:cookies}
+
 
 
 
