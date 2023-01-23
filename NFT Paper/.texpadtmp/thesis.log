@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  22 JAN 2023 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  23 JAN 2023 09:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1999,18 +1999,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 57 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 38640 strings out of 480608
- 760682 string characters out of 5903630
- 1664494 words of memory out of 5000000
- 53543 multiletter control sequences out of 15000+600000
+ 38643 strings out of 480608
+ 760717 string characters out of 5903630
+ 1665534 words of memory out of 5000000
+ 53545 multiletter control sequences out of 15000+600000
  609529 words of font info for 139 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  73i,23n,94p,10101b,23917s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (19 pages, 165814 bytes).
+Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (19 pages, 166174 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
- 302 compressed objects within 4 object streams
- 66 named destinations out of 1000 (max. 500000)
- 19322 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 358 PDF objects out of 1000 (max. 8388607)
+ 308 compressed objects within 4 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 19330 words of extra memory for PDF output out of 20736 (max. 10000000)
 
