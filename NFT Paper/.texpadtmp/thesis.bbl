@@ -17,6 +17,124 @@
 \endgroup
 
 \datalist[entry]{none/global//global/global}
+  \entry{cookies1}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KDM}{%
+         family={Kristol},
+         familyi={K\bibinitperiod},
+         given={David\bibnamedelima M},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM New York, NY, USA}%
+    }
+    \strng{namehash}{KDM1}
+    \strng{fullhash}{KDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{151\bibrangedash 198}
+    \field{title}{HTTP Cookies: Standards, privacy, and politics}
+    \field{volume}{1}
+    \field{journaltitle}{ACM Transactions on Internet Technology (TOIT)}
+    \field{year}{2001}
+  \endentry
+
+  \entry{cookies2}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=AG}{%
+         family={Acar},
+         familyi={A\bibinitperiod},
+         given={Gunes},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=EC}{%
+         family={Eubank},
+         familyi={E\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={Englehardt},
+         familyi={E\bibinitperiod},
+         given={Steven},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Juarez},
+         familyi={J\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NA}{%
+         family={Narayanan},
+         familyi={N\bibinitperiod},
+         given={Arvind},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DC}{%
+         family={Diaz},
+         familyi={D\bibinitperiod},
+         given={Claudia},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AG+1}
+    \strng{fullhash}{AGECESJMNADC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 2014 ACM SIGSAC Conference on Computer
+  and Communications Security}
+    \field{pages}{674\bibrangedash 689}
+    \field{title}{The web never forgets: Persistent tracking mechanisms in the
+  wild}
+    \field{year}{2014}
+  \endentry
+
+  \entry{americansRejectAds}{article}{}
+    \name{author}{5}{}{%
+      {{hash=TJ}{%
+         family={Turow},
+         familyi={T\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={Jennifer},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HCJ}{%
+         family={Hoofnagle},
+         familyi={H\bibinitperiod},
+         given={Chris\bibnamedelima Jay},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bleakley},
+         familyi={B\bibinitperiod},
+         given={Amy},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hennessy},
+         familyi={H\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TJ+1}
+    \strng{fullhash}{TJKJHCJBAHM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Americans reject tailored advertising and three activities
+  that enable it}
+    \field{journaltitle}{Available at SSRN 1478214}
+    \field{year}{2009}
+  \endentry
+
   \entry{previousWebIterations}{inproceedings}{}
     \name{author}{1}{}{%
       {{hash=FS}{%

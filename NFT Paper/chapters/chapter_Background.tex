@@ -1,93 +1,37 @@
-\chapter{Background Information}
-\label{ch:background}
-In order to discuss possible ways to track user data using NFTs, it is important to gain an overview of both the big picture beyond NFTs and the required technologies behind NFTs. These technologies are blockchain, smart contracts, NFTs themselves and cryptocurrency wallets. After these technologies are introduced, the function of cookies and how they are implemented in order to track user data is briefly discussed.
+\chapter{Background Information - Cookies}
+\label{ch:bg_cookies}
+Intro sentence
 
-
-% Overview of what blockchain is
-% What are NFTs?
-% Smart contracts
-% What are Wallets?
-% What are cookies?
-% Privacy and policies
-% What kind of user data is tracked online?
-
-% \cite{bitcoin} \cite{blockchain}
-
-%
-% Section: Web3
-%
-\section{Web3}
-\label{sec:background:web3}
-Previous iterations of the web include the original web, consisting of basic and static websites. Users did not have the possibility to interact with the content of websites in this original state of the internet. Web2 gave rise to a more interactive kind of web. This meant user generated content was at the center of the internet. Social media was born out of Web2. \cite{previousWebIterations}
-
-
-Websites in the era before Web3 fell under the standard client-server model. Here the program or website runs on a server, with which the client is connected to and sends requests to. All of the connecting clients are dependant on this central server, through which all bits of information must pass through. \cite{dapps}
-
-This centralized architecture served well for the first two iterations of the web. However, Web3 calls for decentralization, giving birth to decentralized applications (dApps). These applications no longer run on a single server, but rather on the blockchain itself. The advantage of this is that the benefits of the blockchain, such as availability and security, are baked right into the dApp. \cite{dapps}
-
-
-%
-% Section: Overview of Blockchain
-%
-\section{Blockchain}
-\label{sec:background:blockchain}
-Blockchain technology allows for peer-to-peer electronic cash payments. What makes blockchain different from other forms of electronic payments is that it takes out the trusted third party acting as a middleman between each transaction \cite{bitcoin}. This means that two parties can execute a secure financial transaction without relying on, e.g. a bank, to verify each transaction.
-
-This is achieved via a distributed ledger system. The stored information is distributed across many nodes, which may be located anywhere in the world. Each transaction is transparent and secure, even without the parties' knowledge of each other. Transparency means that each transaction is immutably stored within the blocks and visible to anyone. Security is achieved via several measurements. Each block is hashed, meaning that tampering with data within a block leads to the entire block's data changing. The decentralized structure of the blockchain also means that each node has a copy of the blockchain, which makes it difficult to tamper with. \cite{blockchain}
-
-Cryptocurrencies and NFTs are based on blockchain. 
-
-
-%
-% Section: Smart Contracts
-%
-\section{Smart Contracts}
-\label{sec:background:smartcontracts}
-Although Bitcoin does not natively support Smart Contracts, other blockchains such as Ethereum do. Smart Contracts are way to execute contracts between buyers and sellers, also without the need of a third party intervening. Once specific conditions of a contract are met, the underlying functions are automatically executed. \cite{smartContracts}
-
-The purpose of Smart Contracts in regard to NFTs is to ensure their uniqueness and specify the terms of agreement. An NFT's Smart Contract might specify that the NFT will be transferred from one party to the other if one party pays the other the agreed upon amount.
-
-
-%
-% Section: Non-Fungible Tokens
-%
-\section{Non-Fungible Tokens}
-\label{sec:background:nfts}
-NFTs are a type of cryptocurrency which is based on the Smart Contracts of the Ethereum blockchain. Cryptocurrencies, such as Bitcoin, are all the same. One coin is equal in value and indistinguishable from another. \cite{nftOverview}
-
-The value in NFTs thus lies in the fact that they are distinguishable from one another. Each NFT is non-fungible, meaning non-replaceable. This makes it possible to attach them to both digital and physical products in order to prove possession and authenticity of the product. \cite{nftOverview}
-
-% How and what kind of information can an NFT store?
-
-For example, when buying a sneaker in an online store, it is feasible to receive an NFT with it as well. This NFT may contain the serial number % Todo: How do physical products get mapped to an NFT?
-
-A common use-case of NFTs is to utilize them as an investment tool. Because NFTs have a price attached to them, it is possible to sell them at a higher price than what they were bought for. However, in the realms of this paper, NFTs will not be considered as an investment asset, but rather as a data-tracking mechanism. % Todo: This paragraph is butchered. I was writing it at the main table in Madeira. Have fun rewriting it sucker lmao 01.01.23
-
-%
-% Section: Wallets
-%
-\section{Cryptocurrency Wallets}
-\label{sec:background:wallets}
-
-% Todo: How the public / private key stuff works with wallets
-Having tangible proof of ownership is what makes NFTs valuable. A cryptocurrency wallet serves the main function of allowing access to the data on a blockchain and transferring cryptocurrencies between two parties \cite{wallets1}.
-
-As mentioned in section \ref{sec:background:blockchain}, blockchain data is not stored in a central manner. This means that cryptocurrencies and NFTs are not stored inside of the wallet itself. Rather, a wallet gives a user a public and private key pair. This public key is then encoded into the NFT on the blockchain when a transaction takes place. With a public key encoded into the NFT's transaction history, the corresponding user can verify ownership by owning the associated private key. In order to access the wallet, a user must associate a password with the private key. \cite{wallets2}
-
-Wallets also allow users to see their account balances and to execute transactions. 
-
-Should a user forget or lose their private-key, then they lose access to their wallet without the possibility of recovery. The wallet and its contents are thus inaccessible. \cite{wallets2}
-
-With the rise of Web3, many applications are being created with the use of wallets in mind. Later in section \ref{sec:sota:products}, we will discuss what current products are on the market that fall within the realm of this paper. An important use-cases of wallets, beyond directly communicating with the blockchain, is the use of single-sign on for Web3 websites \cite{walletConnect}.
-
-Cryptocurrency wallets are thus the gateway to any blockchain. They are the center pieces of any type of interaction with NFTs.
 
 %
 % Section: Cookies
 %
 \section{Cookies}
-\label{sec:background:cookies}
+\label{sec:bg_cookies:cookies}
+Cookies are an easy way for websites to save the state or session of a user. In other words, cookies make it possible to create stateful web applications. This is done while browsing a website by sending information back and forth between the client and server. This information is saved as a simple text-file within the user's browser and contains a variety of arbitrary information. \cite{cookies1}
+
+By saving cookies, the server knows details about the user's session such as who is currently logged in or what items are in the user's shopping cart. Thus, a user does not have to log in anew every time they visit the same website. With this information, a profile of the individual user is created and stored within the cookie. \cite{cookies1}
 
 
 
+%
+% Section: Tracking User Data
+%
+\section{Tracking User Data}
+\label{sec:bg_cookies:data}
+It is clear how information about a state or session can be saved in a browser, but how does that allow for third parties to identify and track the current user?
+
+\cite{cookies2}
+
+%
+% Section: Privacy and Policies
+%
+\section{Privacy and Policies}
+\label{sec:bg_cookies:privacy}
+
+Gathering users' information in ways that they are not aware of begs the question if this is legal and what policies exist in order to save users of unwanted tracking.
+
+A study from 2009 showed that 66\% of Americans do not want to have targeted ads based on the information attained by being tracked. More so, when users were made aware of how the information was attained, 73\% - 86\% of users rejected personalized ads. \cite{americansRejectAds}
+
+This study exemplifies that typical users do not want to have detailed information of them tracked and used for advertising. Tracking and labeling users in ways that they do not understand is deemed to be unethical. However, advertisers argue that this allows them to give users what they what: personalized advertisements rather than generic ones. \cite{americansRejectAds}
 
