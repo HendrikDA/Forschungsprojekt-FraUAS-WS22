@@ -42,9 +42,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}{Related Work}}{8}{section.5.2}%
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}{Cookies}}{8}{subsection.5.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}{NFTs and Web3}}{8}{subsection.5.2.2}%
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}{Current Market Products}}{8}{section.5.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.1}{Wallet Connect}}{8}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}{MetaMask}}{9}{subsection.5.3.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}{Methodology}}{10}{chapter.6}%
 \defcounter {refsection}{0}\relax 
@@ -54,9 +60,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.1}{Problems}}{11}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.1}{High Entry Barrier}}{11}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.1}{Privacy - Sharing Your Wallet's Content}}{11}{subsection.7.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}{Discussion}}{11}{section.7.2}%
+\contentsline {subsection}{\numberline {7.1.2}{High Entry Barrier}}{11}{subsection.7.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}{Application Potential}}{11}{section.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}{Discussion}}{11}{section.7.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {8}{Conclusion and Future Work}}{12}{chapter.8}%
 \defcounter {refsection}{0}\relax 
