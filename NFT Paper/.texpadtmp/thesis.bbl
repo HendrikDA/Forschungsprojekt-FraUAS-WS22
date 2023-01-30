@@ -403,5 +403,17 @@
     \field{howpublished}{https://metamask.io/}
     \field{title}{MetaMask - A ConsenSys Formation}
   \endentry
+
+  \entry{etherscan}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{https://etherscan.io/}
+    \field{title}{Etherscan}
+  \endentry
+
+  \entry{openSea}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{https://opensea.io/}
+    \field{title}{OpenSea - Ozone Networks, Inc}
+  \endentry
 \enddatalist
 \endinput

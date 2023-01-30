@@ -10,9 +10,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}{Motivation}}{1}{section.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}{Goals}}{1}{section.1.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}{Overview}}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.2}{Goals and Overview}}{1}{section.1.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}{Background Information - Cookies}}{2}{chapter.2}%
 \defcounter {refsection}{0}\relax 
@@ -56,11 +54,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.1}{Example Case - Online Stores and Single Sign-On}}{11}{section.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}{Accessing Wallet Data}}{11}{section.6.2}%
+\contentsline {section}{\numberline {6.2}{Public Wallet Address}}{11}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}{Leveraging Wallet Data}}{12}{section.6.3}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}{Tracking Users}}{12}{section.6.4}%
+\contentsline {section}{\numberline {6.3}{Further Obtainable Data}}{12}{section.6.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}{Results and Discussion}}{13}{chapter.7}%
 \defcounter {refsection}{0}\relax 

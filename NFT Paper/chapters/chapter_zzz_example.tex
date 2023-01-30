@@ -18,34 +18,34 @@ How is the second online shop able to give specific recommendations to Alice jus
 
 
 %
-% Section: Accessing Wallet Data
+% Section: Public Wallet Address
 %
-\section{Accessing Wallet Data}
-\label{sec:methodology:data}
+\section{Public Wallet Address}
+\label{sec:methodology:address}
 In the above scenario, the user grants wallet access to the online stores. As mentioned in section \ref{sec:bg_tech:wallets}, the online stores are thus able to view the public address of the wallet. Although the stores do not know anything about the user specifically (i.e. name, age, etc.), this information alone is enough to be able to make specific recommendations to a potential buyer.
 
-This is possible because everything written to the blockchain is public knowledge. When an online store, as in the example above, places an NFT into a user's wallet, the transaction is recorded with with both parties public addresses.
+This is possible because everything written to the blockchain is public knowledge. When an online store, as in the example above, places an NFT into a user's wallet, the transaction is recorded with with both parties' public addresses.
 
-Etherscan (todo citation) and OpenSea (todo citation) are two popular websites for viewing transactions and profiles. When looking up a user's public address on such a platform, every transaction associated with that public address can be viewed. Figure \ref{fig:openSea} shows an example OpenSea profile, viewable by anyone. The user, with a public address starting with \textit{0xd4C6}, is displayed. This user has three NFTs currently in their wallet.
+Etherscan \cite{etherscan} and OpenSea \cite{openSea} are two popular websites for viewing transactions and profiles. When looking up a user's public address on Etherscan, every transaction associated with that public address can be viewed \cite{etherscan}. Figure \ref{fig:openSea} shows an example OpenSea profile, also viewable by anyone. OpenSea is a marketplace to view and trade NFTs \cite{openSea}. In the example, the user with the public address starting with \textit{0xd4C6}, is displayed. This user has three NFTs currently in their wallet.
 
 This information about a user is automatically accessible to any platform that a user connects their wallet to. In the above example, the second online store would be able to see the contents of the users wallet, recognize that they have previously bought a certain shoe from another store by seeing the associated NFT. Knowing what shoe a user has previously bought, they are able to recommend similar products to the user. For example, if a customer has previously bought a certain shoe from Nike and received an NFT for their purchase, then Adidas can use the information of that NFT to recommend products of their own.
 
 \begin{figure}[t]
 \includegraphics[width=\textwidth]{./gfx/openSea.png}
 \centering
-\caption{An example profile on the online NFT marketplace \textit{OpenSea}}
+\caption{An example profile on the online NFT marketplace \textit{OpenSea} \cite{openSea}.}
 \label{fig:openSea}
 \end{figure}
 
 %
-% Section: Leveraging Wallet Data
+% Section: Further Obtainable Data
 %
-\section{Leveraging Wallet Data}
-\label{sec:methodology:leverage}
+\section{Further Obtainable Data}
+\label{sec:methodology:moreData}
 
-%
-% Section: Tracking Users
-%
-\section{Tracking Users}
-\label{sec:methodology:tracking}
+Todo: Something about transactional data that can be viewed on Etherscan. Not only can companies see our wallets and what NFTs we're holding, but they can also see who we are interacting with and can use that information to find things out about us.
+
+Wallet Balance wird auch angezeigt
+
+
 
