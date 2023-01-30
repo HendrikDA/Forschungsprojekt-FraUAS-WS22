@@ -36,7 +36,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.5}{Cryptocurrency Wallets}}{6}{section.4.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}{Current State of the Art and Related Work}}{8}{chapter.5}%
+\contentsline {chapter}{\numberline {5}{Related Work and Market Products}}{8}{chapter.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.1}{Current State of the Art}}{8}{section.5.1}%
 \defcounter {refsection}{0}\relax 
@@ -48,32 +48,44 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}{Current Market Products}}{8}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.1}{Wallet Connect}}{8}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.1}{MetaMask}}{9}{subsection.5.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.2}{MetaMask}}{9}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.2}{Wallet Connect}}{10}{subsection.5.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}{Methodology}}{10}{chapter.6}%
+\contentsline {chapter}{\numberline {6}{Methodology}}{11}{chapter.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}{Case Study - Online Stores and Single-Sign On}}{10}{section.6.1}%
+\contentsline {section}{\numberline {6.1}{Example Case - Online Stores and Single Sign-On}}{11}{section.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}{Results and Discussion}}{11}{chapter.7}%
+\contentsline {section}{\numberline {6.2}{Accessing Wallet Data}}{11}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}{Problems}}{11}{section.7.1}%
+\contentsline {section}{\numberline {6.3}{Leveraging Wallet Data}}{12}{section.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.1}{Privacy - Sharing Your Wallet's Content}}{11}{subsection.7.1.1}%
+\contentsline {section}{\numberline {6.4}{Tracking Users}}{12}{section.6.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.2}{High Entry Barrier}}{11}{subsection.7.1.2}%
+\contentsline {chapter}{\numberline {7}{Results and Discussion}}{13}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}{Application Potential}}{11}{section.7.2}%
+\contentsline {section}{\numberline {7.1}{Results}}{13}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}{Discussion}}{11}{section.7.3}%
+\contentsline {section}{\numberline {7.2}{Problems}}{13}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}{Conclusion and Future Work}}{12}{chapter.8}%
+\contentsline {subsection}{\numberline {7.2.1}{Quality of Data}}{13}{subsection.7.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}{Conclusion}}{12}{section.8.1}%
+\contentsline {subsection}{\numberline {7.2.2}{Privacy - Sharing Your Wallet's Content}}{13}{subsection.7.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}{Future Work and Path Forward}}{12}{section.8.2}%
+\contentsline {subsection}{\numberline {7.2.3}{High Entry Barrier}}{13}{subsection.7.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2.4}{High Gas Prices}}{14}{subsection.7.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}{Application Potential}}{14}{section.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}{Discussion}}{14}{section.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}{Conclusion and Future Work}}{15}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}{Conclusion}}{15}{section.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}{Future Work and Path Forward}}{15}{section.8.2}%
 \defcounter {refsection}{0}\relax 
 \vspace {\beforebibskip }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {}{Bibliography}}{13}{section*.1}%
+\contentsline {chapter}{\numberline {}{Bibliography}}{16}{section*.3}%

@@ -397,5 +397,11 @@
     \field{note}{Accessed: 2023-01-22}
     \field{title}{WalletConnect, Inc}
   \endentry
+
+  \entry{metaMask}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{https://metamask.io/}
+    \field{title}{MetaMask - A ConsenSys Formation}
+  \endentry
 \enddatalist
 \endinput
