@@ -58,9 +58,12 @@ In order to demonstrate that the above information can truly be gathered on any 
 
 When the button is clicked and specified that you wish to connect via MetaMask, the same popup as in figure \ref{fig:metamaskPopup} appears. Once connected, the frontend receives connection details such as the wallet link, the wallet's connection status, and most importantly the public address of the wallet. This is shown in listing \ref{lst:wagmi}.
 
+
+\textit{\color{red}Todo: Describe what the code and the example does.}
+
 % Rainbow Kit Connect Wallet
 \begin{center}
-\begin{lstlisting}[label=lst:wagmi ,language=python, caption=An example of implementing a connect wallet button within the frontend of a webapp using the \textit{RainbowKit} UI Library \cite{rainbowKit}., captionpos=b]
+\begin{lstlisting}[label=lst:rainbow ,language=python, caption=An example of implementing a connect wallet button within the frontend of a webapp using the \textit{RainbowKit} UI Library \cite{rainbowKit}., captionpos=b]
 
 import { ConnectButton } from '@rainbow-me/rainbowkit';
 
@@ -94,7 +97,7 @@ function App() {
 
 % Etherscan API get transactions
 \begin{center}
-\begin{lstlisting}[label=lst:wagmi ,language=python, caption=asdf., captionpos=b]
+\begin{lstlisting}[label=lst:apiCall ,language=python, caption=A real-world example API call made from the frontend in order to retrieve all of a user's transactional data. The API is provided by \textit{Etherscan} \cite{etherscan}., captionpos=b]
 https://api.etherscan.io/api?module=account
     &action=tokennfttx
     &contractaddress=0x708E73c7A0D81e00e848c902217d2d39e56d65AF
@@ -110,7 +113,7 @@ https://api.etherscan.io/api?module=account
 
 % Etherscan API transaction result
 \begin{center}
-\begin{lstlisting}[label=lst:wagmi ,language=python, caption=asdf., captionpos=b]
+\begin{lstlisting}[label=lst:apiResult ,language=python, caption={A real-world example of the response to the API request from listing \ref{lst:apiCall}. The result contains a variety of information, such as the transaction timestamp, the sender's public address (from), and the receivers public address (to). The response is provided by the \textit{Etherscan} API \cite{etherscan}.}, captionpos=b]
 
 [
   {
