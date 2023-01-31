@@ -47,5 +47,94 @@ Todo: Something about transactional data that can be viewed on Etherscan. Not on
 
 Wallet Balance wird auch angezeigt
 
+You can also see all transactions. Meaning you can see who an individual is interacting with. Using their public address you can gain insight as to what they're selling, etc. which might be useful information on the current user as well.
+
+%
+% Section: Obtaining Data Via the Etherscan API
+%
+\section{Example of Programmatically Obtaining Information Via a Wallet}
+\label{sec:methodology:code}
+In order to demonstrate that the above information can truly be gathered on any connecting wallet, a short example will be run through. The frontend will be created using React. The example uses the Web3 component library \textit{Rainbow Kit} \cite{rainbowKit}. Using this UI kit, a connect button for wallets is created. The connection to the Ethereum blockchain is created using the React hooks Library named \textit{wagmi}.
+
+When the button is clicked and specified that you wish to connect via MetaMask, the same popup as in figure \ref{fig:metamaskPopup} appears. Once connected, the frontend receives connection details such as the wallet link, the wallet's connection status, and most importantly the public address of the wallet. This is shown in listing \ref{lst:wagmi}.
+
+% Rainbow Kit Connect Wallet
+\begin{center}
+\begin{lstlisting}[label=lst:wagmi ,language=python, caption=An example of implementing a connect wallet button within the frontend of a webapp using the \textit{RainbowKit} UI Library \cite{rainbowKit}., captionpos=b]
+
+import { ConnectButton } from '@rainbow-me/rainbowkit';
+
+export const YourApp = () => {
+  return <ConnectButton />;
+};
+
+\end{lstlisting}
+\end{center}
 
 
+
+
+% Wagmi Get Public Address
+\begin{center}
+\begin{lstlisting}[label=lst:wagmi ,language=python, caption=An example of getting a wallet's public address using \textit{wagmi React Hooks for Ethereum} \cite{wagmi}. This can be used once the wallet has been connected successfully., captionpos=b]
+
+import { useAccount } from 'wagmi'
+ 
+function App() {
+  const { address, isConnecting, isDisconnected } = useAccount()
+ 
+  if (isConnecting) return <div>Connecting</div>
+  if (isDisconnected) return <div>Disconnected</div>
+  return <div>{address}</div>
+}
+
+\end{lstlisting}
+\end{center}
+
+
+% Etherscan API get transactions
+\begin{center}
+\begin{lstlisting}[label=lst:wagmi ,language=python, caption=asdf., captionpos=b]
+https://api.etherscan.io/api?module=account
+    &action=tokennfttx
+    &contractaddress=0x708E73c7A0D81e00e848c902217d2d39e56d65AF
+    &address=${address}
+    &page=1&offset=100
+    &startblock=0
+    &endblock=27025780
+    &sort=asc
+	&apikey=${apiKey}
+\end{lstlisting}
+\end{center}
+
+
+% Etherscan API transaction result
+\begin{center}
+\begin{lstlisting}[label=lst:wagmi ,language=python, caption=asdf., captionpos=b]
+
+[
+  {
+    "blockNumber": "16526088",
+    "timeStamp": "1675159439",
+    "hash": "0xdeeb04083dce62a599e4df0050f29eace79a517649dce48b8a1f00961f39742c",
+    "nonce": "55820",
+    "blockHash": "0x8bcdc1acada5e191ecde74131f3098e42c1d886a48a6edd766425c725d976455",
+    "from": "0x36c72892fcc72b52fa3b82ed3bb2a467d9079b9a",
+    "contractAddress": "0x708e73c7a0d81e00e848c902217d2d39e56d65af",
+    "to": "0xd4c656b454bae586ff3afc28171d2981a1f17702",
+    "tokenID": "1009",
+    "tokenName": "BoredApeFrens",
+    "tokenSymbol": "BAF",
+    "tokenDecimal": "0",
+    "transactionIndex": "92",
+    "gas": "400000",
+    "gasPrice": "20873221741",
+    "gasUsed": "260812",
+    "cumulativeGasUsed": "6383822",
+    "input": "deprecated",
+    "confirmations": "1357"
+  }
+]
+
+\end{lstlisting}
+\end{center}

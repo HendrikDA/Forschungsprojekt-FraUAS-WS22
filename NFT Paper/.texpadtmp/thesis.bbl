@@ -415,5 +415,17 @@
     \field{howpublished}{https://opensea.io/}
     \field{title}{OpenSea - Ozone Networks, Inc}
   \endentry
+
+  \entry{rainbowKit}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{https://www.rainbowkit.com/}
+    \field{title}{Rainbow Kit}
+  \endentry
+
+  \entry{wagmi}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{https://wagmi.sh/}
+    \field{title}{Wagmi React Hooks for Ethereum}
+  \endentry
 \enddatalist
 \endinput

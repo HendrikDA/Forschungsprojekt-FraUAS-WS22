@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  30 JAN 2023 22:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  31 JAN 2023 15:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1301,7 +1301,17 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
- (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.aux (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Titlepage.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Titleback.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Declaration.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/AbstractEN.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Contents.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Acronyms.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Intro.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Background.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_SOTA.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Background_tech.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Method.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_zzz_example.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Experiments.aux
+ (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.aux (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Titlepage.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Titleback.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Declaration.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/AbstractEN.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Contents.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Acronyms.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Intro.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Background.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_SOTA.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Background_tech.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Method.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_zzz_example.aux
+
+LaTeX Warning: Label `lst:wagmi' multiply defined.
+
+
+LaTeX Warning: Label `lst:wagmi' multiply defined.
+
+
+LaTeX Warning: Label `lst:wagmi' multiply defined.
+
+) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Experiments.aux
 
 LaTeX Warning: Label `sub:results:barrier' multiply defined.
 
@@ -1661,7 +1671,7 @@ Overfull \hbox (14.09244pt too wide) in paragraph at lines 51--52
 \T1/pplj/m/n/10.95 MetaMask is a pop-u-lar browser ex-ten-sion which works on most ma-jor browsers.
  []
 
-<./gfx/metamaskPopup.png, id=234, 355.3275pt x 585.18625pt>
+<./gfx/metamaskPopup.png, id=236, 355.3275pt x 585.18625pt>
 File: ./gfx/metamaskPopup.png Graphic file (type png)
 <use ./gfx/metamaskPopup.png>
 Package pdftex.def Info: ./gfx/metamaskPopup.png  used on input line 56.
@@ -1677,27 +1687,62 @@ Chapter 6.
 
 
 ]
-<./gfx/openSea.png, id=263, 969.6225pt x 729.72626pt>
+<./gfx/openSea.png, id=265, 969.6225pt x 729.72626pt>
 File: ./gfx/openSea.png Graphic file (type png)
 <use ./gfx/openSea.png>
 Package pdftex.def Info: ./gfx/openSea.png  used on input line 34.
 (pdftex.def)             Requested size: 370.0pt x 278.45686pt.
-) [12 <./gfx/openSea.png>]
+ [12 <./gfx/openSea.png>] (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 63.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 63.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 9.30756pt on input line 71.
+
+Overfull \hbox (14.81976pt too wide) has occurred while \output is active
+ []|[]|
+ []
+
+[13]
+Overfull \hbox (1.90569pt too wide) in paragraph at lines 119--120
+[][] 
+ []
+
+
+Overfull \hbox (1.90569pt too wide) in paragraph at lines 121--122
+[][] 
+ []
+
+)
+Overfull \hbox (14.81976pt too wide) has occurred while \output is active
+ []|[]|
+ []
+
+[14]
 \openout2 = `chapters/chapter_Experiments.aux'.
 
  (./chapters/chapter_Experiments.tex
 Chapter 7.
-[13
+[15
 
 
 
 
-]) [14]
+]) [16]
 \openout2 = `chapters/chapter_Conclusion.aux'.
 
  (./chapters/chapter_Conclusion.tex
 Chapter 8.
-) [15
+) [17
 
 
 
@@ -1720,24 +1765,14 @@ Overfull \hbox (1.93639pt too wide) in paragraph at lines 15--15
 []\T1/pplj/m/n/10.95 Zibin Zheng, Shaoan Xie, Hong-Ning Dai, Weili Chen, Xi-ang-ping Chen,
  []
 
-LaTeX Font Info:    Trying to load font information for T1+fvm on input line 15.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/bera/t1fvm.fd
-File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
-)
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 9.30756pt on input line 15.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `fvm' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-) [16
+) [18
 
 
 
 
 
 
-]
+] [19]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
  (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.aux (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Titlepage.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Titleback.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Declaration.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/AbstractEN.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Contents.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Acronyms.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Intro.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Background.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_SOTA.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Background_tech.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Method.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_zzz_example.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Experiments.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/chapters/chapter_Conclusion.aux) (/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/frontbackmatter/Bibliography.aux))
@@ -1946,10 +1981,11 @@ chapters/chapter_Method.tex
 ./gfx/metamaskPopup.png
 chapters/chapter_zzz_example.tex
 ./gfx/openSea.png
+lstlang1.sty    2020/03/24 1.8d listings language file
+   t1fvm.fd    2004/09/07 scalable font definitions for T1/fvm.
 chapters/chapter_Experiments.tex
 chapters/chapter_Conclusion.tex
 frontbackmatter/Bibliography.tex
-   t1fvm.fd    2004/09/07 scalable font definitions for T1/fvm.
  ***********
 
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
@@ -1967,18 +2003,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 57 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 38626 strings out of 480608
- 759311 string characters out of 5903630
- 1659607 words of memory out of 5000000
- 53534 multiletter control sequences out of 15000+600000
- 599798 words of font info for 117 fonts, out of 8000000 for 9000
+ 39182 strings out of 480608
+ 765112 string characters out of 5903630
+ 1704928 words of memory out of 5000000
+ 54028 multiletter control sequences out of 15000+600000
+ 600731 words of font info for 120 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 73i,23n,91p,10101b,23956s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,23n,91p,10101b,24420s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (22 pages, 1047625 bytes).
+Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (25 pages, 1059603 bytes).
 PDF statistics:
- 472 PDF objects out of 1000 (max. 8388607)
- 413 compressed objects within 5 object streams
- 87 named destinations out of 1000 (max. 500000)
- 15836 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 564 PDF objects out of 1000 (max. 8388607)
+ 500 compressed objects within 5 object streams
+ 146 named destinations out of 1000 (max. 500000)
+ 16868 words of extra memory for PDF output out of 17280 (max. 10000000)
 

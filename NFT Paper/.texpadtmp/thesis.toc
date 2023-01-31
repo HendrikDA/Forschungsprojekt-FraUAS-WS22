@@ -58,30 +58,32 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.3}{Further Obtainable Data}}{12}{section.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}{Results and Discussion}}{13}{chapter.7}%
+\contentsline {section}{\numberline {6.4}{Example of Programmatically Obtaining Information Via a Wallet}}{13}{section.6.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}{Results}}{13}{section.7.1}%
+\contentsline {chapter}{\numberline {7}{Results and Discussion}}{15}{chapter.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}{Problems}}{13}{section.7.2}%
+\contentsline {section}{\numberline {7.1}{Results}}{15}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}{Quality of Data}}{13}{subsection.7.2.1}%
+\contentsline {section}{\numberline {7.2}{Problems}}{15}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}{Privacy - Sharing Your Wallet's Content}}{13}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.1}{Quality of Data}}{15}{subsection.7.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.3}{High Entry Barrier}}{13}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.2}{Privacy - Sharing Your Wallet's Content}}{15}{subsection.7.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.4}{High Gas Prices}}{14}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.3}{High Entry Barrier}}{15}{subsection.7.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}{Application Potential}}{14}{section.7.3}%
+\contentsline {subsection}{\numberline {7.2.4}{High Gas Prices}}{16}{subsection.7.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}{Discussion}}{14}{section.7.4}%
+\contentsline {section}{\numberline {7.3}{Application Potential}}{16}{section.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}{Conclusion and Future Work}}{15}{chapter.8}%
+\contentsline {section}{\numberline {7.4}{Discussion}}{16}{section.7.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}{Conclusion}}{15}{section.8.1}%
+\contentsline {chapter}{\numberline {8}{Conclusion and Future Work}}{17}{chapter.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}{Future Work and Path Forward}}{15}{section.8.2}%
+\contentsline {section}{\numberline {8.1}{Conclusion}}{17}{section.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}{Future Work and Path Forward}}{17}{section.8.2}%
 \defcounter {refsection}{0}\relax 
 \vspace {\beforebibskip }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {}{Bibliography}}{16}{section*.3}%
+\contentsline {chapter}{\numberline {}{Bibliography}}{18}{section*.3}%
