@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  31 JAN 2023 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  10 FEB 2023 23:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1558,7 +1558,7 @@ Package microtype Info: Character `029' is missing
 
 
 
-])
+] [6])
 \openout2 = `frontbackmatter/Acronyms.aux'.
 
  (./frontbackmatter/Acronyms.tex
@@ -1566,7 +1566,7 @@ Package microtype Info: Character `029' is missing
 1: chapter
 1: chapter
 1: section
-[6
+[7
 
 
 
@@ -1596,7 +1596,7 @@ Chapter 1.
 
  (./chapters/chapter_Background.tex
 Chapter 2.
-<./gfx/cookiesScreenshot.png, id=171, 795.97375pt x 530.98375pt>
+<./gfx/cookiesScreenshot.png, id=177, 795.97375pt x 530.98375pt>
 File: ./gfx/cookiesScreenshot.png Graphic file (type png)
 <use ./gfx/cookiesScreenshot.png>
 Package pdftex.def Info: ./gfx/cookiesScreenshot.png  used on input line 39.
@@ -1671,7 +1671,7 @@ Overfull \hbox (14.09244pt too wide) in paragraph at lines 51--52
 \T1/pplj/m/n/10.95 MetaMask is a pop-u-lar browser ex-ten-sion which works on most ma-jor browsers.
  []
 
-<./gfx/metamaskPopup.png, id=240, 355.3275pt x 585.18625pt>
+<./gfx/metamaskPopup.png, id=246, 355.3275pt x 585.18625pt>
 File: ./gfx/metamaskPopup.png Graphic file (type png)
 <use ./gfx/metamaskPopup.png>
 Package pdftex.def Info: ./gfx/metamaskPopup.png  used on input line 56.
@@ -1687,7 +1687,7 @@ Chapter 6.
 
 
 ]
-<./gfx/openSea.png, id=268, 969.6225pt x 729.72626pt>
+<./gfx/openSea.png, id=274, 969.6225pt x 729.72626pt>
 File: ./gfx/openSea.png Graphic file (type png)
 <use ./gfx/openSea.png>
 Package pdftex.def Info: ./gfx/openSea.png  used on input line 34.
@@ -2004,18 +2004,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 57 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 39194 strings out of 480608
- 765386 string characters out of 5903630
- 1705885 words of memory out of 5000000
- 54038 multiletter control sequences out of 15000+600000
+ 39199 strings out of 480608
+ 765458 string characters out of 5903630
+ 1705945 words of memory out of 5000000
+ 54041 multiletter control sequences out of 15000+600000
  600731 words of font info for 120 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 73i,23n,91p,10101b,24420s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,23n,95p,10101b,24420s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (25 pages, 1261705 bytes).
+Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (26 pages, 1262194 bytes).
 PDF statistics:
- 574 PDF objects out of 1000 (max. 8388607)
- 504 compressed objects within 6 object streams
- 147 named destinations out of 1000 (max. 500000)
- 16873 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 583 PDF objects out of 1000 (max. 8388607)
+ 512 compressed objects within 6 object streams
+ 149 named destinations out of 1000 (max. 500000)
+ 16881 words of extra memory for PDF output out of 17280 (max. 10000000)
 

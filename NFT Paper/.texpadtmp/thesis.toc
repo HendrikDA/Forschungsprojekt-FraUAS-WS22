@@ -42,7 +42,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.2.1}{Cookies}}{8}{subsection.5.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}{NFTs and Web3}}{8}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.2}{NFTs, Wallets, and Web3}}{8}{subsection.5.2.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.3}{Current Market Products}}{8}{section.5.3}%
 \defcounter {refsection}{0}\relax 
@@ -64,19 +64,21 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.1}{Results}}{15}{section.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}{Problems}}{15}{section.7.2}%
+\contentsline {section}{\numberline {7.2}{Research Challenges}}{15}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}{Quality of Data}}{15}{subsection.7.2.1}%
+\contentsline {section}{\numberline {7.3}{Problems}}{15}{section.7.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}{Privacy - Sharing Your Wallet's Content}}{15}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.3.1}{Quality of Data}}{15}{subsection.7.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.3}{High Entry Barrier}}{15}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.3.2}{Privacy - Sharing Your Wallet's Content}}{15}{subsection.7.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.4}{High Gas Prices}}{16}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.3.3}{High Entry Barrier}}{16}{subsection.7.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}{Application Potential}}{16}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.4}{High Gas Prices}}{16}{subsection.7.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}{Discussion}}{16}{section.7.4}%
+\contentsline {section}{\numberline {7.4}{Application Potential}}{16}{section.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.5}{Discussion}}{16}{section.7.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {8}{Conclusion and Future Work}}{17}{chapter.8}%
 \defcounter {refsection}{0}\relax 
