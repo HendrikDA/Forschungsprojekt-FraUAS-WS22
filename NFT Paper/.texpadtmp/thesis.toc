@@ -56,9 +56,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.2}{Public Wallet Address}}{11}{section.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}{Further Obtainable Data}}{12}{section.6.3}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}{Example of Programmatically Obtaining Information Via a Wallet}}{13}{section.6.4}%
+\contentsline {section}{\numberline {6.3}{Example of Programmatically Obtaining Information Via a Wallet}}{12}{section.6.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}{Results and Discussion}}{16}{chapter.7}%
 \defcounter {refsection}{0}\relax 

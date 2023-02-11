@@ -23,7 +23,7 @@ It is clear how information about a state or session can be saved in a browser, 
 
 Third parties, such as Facebook or Google, are able to display personalized ads on the website a user is currently visiting by utilizing cookie syncing. With this method, domains assign an ID to a user, which is then passed between domains. \cite{cookies2}
 
-textit{\color{red}Todo: Third party cookies}
+These third-party cookies are what danger users' privacy. When visiting website a, there may be some cookies set by website b that track you. Even though you are not currently visiting website b, they are still obtaining information on you. Even when rejecting these cookies in the popup, tracking is sometimes still possible if there are implementation errors, misconfigurations, or unlawful behavior at work \cite{thirdPartyCookies}.
 
 %
 % Section: Privacy and Policies
@@ -31,7 +31,7 @@ textit{\color{red}Todo: Third party cookies}
 \section{Privacy and Policies}
 \label{sec:bg_cookies:privacy}
 
-Gathering users' information in ways that they are not aware of begs the question if this is legal and what policies exist in order to save users of unwanted tracking.
+Gathering users' information in ways that they are not aware of, i.e. through third-parties, begs the question if this is legal and what policies exist in order to save users of unwanted tracking.
 
 A study from 2009 showed that 66\% of Americans do not want to have targeted ads based on the information attained by being tracked. More so, when users were made aware of how the information was attained, 73\% - 86\% of users rejected personalized ads. \cite{americansRejectAds}
 
@@ -40,8 +40,13 @@ This study exemplifies that typical users do not want to have detailed informati
 \begin{figure}[t]
 \includegraphics[width=\textwidth]{./gfx/cookiesScreenshot.png}
 \centering
-\caption{A screenshot of all active cookies being used when visiting \textit{https://www.nike.de}}
+\caption{A screenshot of all active cookies being used when visiting \textit{\url{https://www.nike.de}}}
 \label{fig:nikeCookies}
 \end{figure}
 
-\textit{\color{red}Todo: More on privacy, since this is one of the main reasons to look for alternatives. Can you find sources on how business models are being broken by privacy policies? Also describe how the screenshot has seemingly arbitrary content set in the cookies. It's encoded and can't be read, but contains a plethora of information.}
+Figure \ref{fig:nikeCookies} shows a screenshot of all active cookies when visiting Nike's German domain. Notice how simply loading their website automatically sets 17 cookies, even before asking for permissions. While some of these may be required for the website to function properly, some may be used to gather information on the visitor. Each key-value pair is encoded, meaning they are not readable for humans. This means that a user is not able to understand what data is being tracked here. Nike may also track similar data on other websites by using third-party cookies.
+
+
+
+
+
