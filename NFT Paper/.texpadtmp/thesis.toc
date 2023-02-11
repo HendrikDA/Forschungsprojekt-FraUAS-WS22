@@ -58,19 +58,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.3}{Example of Programmatically Obtaining Information Via a Wallet}}{12}{section.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}{Results and Discussion}}{16}{chapter.7}%
+\contentsline {chapter}{\numberline {7}{Results and Downsides}}{16}{chapter.7}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.1}{Results}}{16}{section.7.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.2}{Research Challenges}}{16}{section.7.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}{Comparison of Tracking Methods}}{16}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.1}{Privacy - Sharing Your Wallet's Content}}{16}{subsection.7.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}{Privacy - Sharing Your Wallet's Content}}{16}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.2}{High Entry Barrier}}{17}{subsection.7.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.3}{High Entry Barrier}}{17}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.3}{High Gas Prices}}{17}{subsection.7.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.4}{High Gas Prices}}{17}{subsection.7.2.4}%
+\contentsline {subsection}{\numberline {7.2.4}{Comparing Cookies to NFTs}}{17}{subsection.7.2.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {8}{Conclusion and Future Work}}{18}{chapter.8}%
 \defcounter {refsection}{0}\relax 
