@@ -56,10 +56,9 @@ You can also see all transactions. Meaning you can see who an individual is inte
 \label{sec:methodology:code}
 In order to demonstrate that the above information can truly be gathered on any connecting wallet, a short example will be run through. The frontend will be created using React. The example uses the Web3 component library \textit{Rainbow Kit} \cite{rainbowKit}. Using this UI kit, a connect button for wallets is created. The connection to the Ethereum blockchain is created using the React hooks Library named \textit{wagmi}.
 
-When the button is clicked and specified that you wish to connect via MetaMask, the same popup as in figure \ref{fig:metamaskPopup} appears. Once connected, the frontend receives connection details such as the wallet link, the wallet's connection status, and most importantly the public address of the wallet. This is shown in listing \ref{lst:wagmi}.
+When the button is clicked and specified that you wish to connect via MetaMask, the same popup as in figure \ref{fig:metamaskPopup} appears. Once connected, the frontend receives connection details such as the wallet link, the wallet's connection status, and most importantly the public address of the wallet.
 
-
-\textit{\color{red}Todo: Describe what the code and the example does.}
+Listing \ref{lst:rainbow} shows an example of a simple React component which utilizes the Rainbowkit UI Library. The \textit{ConnectButton} component comes preconfigured with everything necessary to connect a wallet. Therefore, no logic needs to be implemented for a simple connect button.
 
 % Rainbow Kit Connect Wallet
 \begin{center}
@@ -74,7 +73,7 @@ export const YourApp = () => {
 \end{lstlisting}
 \end{center}
 
-
+Once the wallet has been connected successfully, it is possible to access a variety of information on the wallet. Listing \ref{lst:wagmi} is an example of how \textit{wagmi}, a type of React Hook which utilizes the Ethereum blockchain, is able to retrieve the address of a user. The example then displays the public address in the browser.
 
 
 % Wagmi Get Public Address
@@ -94,6 +93,7 @@ function App() {
 \end{lstlisting}
 \end{center}
 
+Utilizing the Etherscan API, it is possible to obtain the entire transaction history of any Wallet. Plugging the public address obtained into the API call in listing \ref{lst:apiCall}, it is possible to retrieve user data. The listing contains an example public address used for the purpose of this research.
 
 % Etherscan API get transactions
 \begin{center}
@@ -109,6 +109,8 @@ https://api.etherscan.io/api?module=account
 	&apikey=${apiKey}
 \end{lstlisting}
 \end{center}
+
+Figure \ref{lst:apiResult} shows the response to the API call in listing \ref{lst:apiCall}. The response is an array of all of the public address's transactions. In this example, only one transaction has been made with the address. The response contains the blockchain's block number, the timestamp when the transaction was written to the blockchain, the public address of the sender (from), the public address of the recipient (to), the name of the token, the token ID, and a variety of information on the gas usage for the transaction.
 
 
 % Etherscan API transaction result
@@ -138,6 +140,15 @@ https://api.etherscan.io/api?module=account
     "confirmations": "1357"
   }
 ]
-
 \end{lstlisting}
 \end{center}
+
+Creating this quick example shows that obtaining personal information through a Wallet can easily be achieved. With enough transactions in a user's account, the behavior can be analyzed and used to create content catered toward their interests.
+
+For example, with several transactions in a Wallet's history, it is possible to look at who the user is interacting with. Who are they receiving NFTs from? Who are they sending them to? If they are primarily receiving NFTs from shoe brands, it is feasible to conclude that they have an interests in shoes.
+
+By looking at the token name, the token ID, and the image associated with the token, it is possible to know what the NFT represents. This can be, for example, a specific sneaker from a specific brand.
+
+Even the timestamp of the transaction can be used to gather information. How frequently is the user obtaining NFTs of a shoe? If they are receiving them in consistent time intervals, then that can be used to deliver ads to the user in the timeframe shortly before their next predicted purchase.
+
+With just a few transactions in a Wallet, it is possible to gather behavioral information on a user. The possible applications of this are still in their infant stages. However, the potential can be great. The next chapter will discuss the results of this paper.
