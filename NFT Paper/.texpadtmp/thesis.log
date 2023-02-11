@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  11 FEB 2023 12:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  11 FEB 2023 13:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1602,7 +1602,7 @@ Chapter 2.
 
 
 ]
-<./gfx/cookiesScreenshot.png, id=184, 795.97375pt x 530.98375pt>
+<./gfx/cookiesScreenshot.png, id=178, 795.97375pt x 530.98375pt>
 File: ./gfx/cookiesScreenshot.png Graphic file (type png)
 <use ./gfx/cookiesScreenshot.png>
 Package pdftex.def Info: ./gfx/cookiesScreenshot.png  used on input line 41.
@@ -1624,11 +1624,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 
  (./chapters/chapter_SOTA.tex
 Chapter 3.
-
-Overfull \hbox (4.17273pt too wide) in paragraph at lines 6--7
-\T1/pplj/m/n/10.95 within the realm of Web3, which is built upon tech-nolo-gies such as blockchain
- []
-
 ) [4
 
 
@@ -1684,7 +1679,7 @@ Overfull \hbox (14.09244pt too wide) in paragraph at lines 57--58
 \T1/pplj/m/n/10.95 MetaMask is a pop-u-lar browser ex-ten-sion which works on most ma-jor browsers.
  []
 
-<./gfx/metamaskPopup.png, id=253, 352.31625pt x 416.55624pt>
+<./gfx/metamaskPopup.png, id=247, 352.31625pt x 416.55624pt>
 File: ./gfx/metamaskPopup.png Graphic file (type png)
 <use ./gfx/metamaskPopup.png>
 Package pdftex.def Info: ./gfx/metamaskPopup.png  used on input line 62.
@@ -1700,7 +1695,7 @@ Chapter 6.
 
 
 ]
-<./gfx/openSea.png, id=281, 969.6225pt x 729.72626pt>
+<./gfx/openSea.png, id=275, 969.6225pt x 729.72626pt>
 File: ./gfx/openSea.png Graphic file (type png)
 <use ./gfx/openSea.png>
 Package pdftex.def Info: ./gfx/openSea.png  used on input line 34.
@@ -2019,18 +2014,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 ### simple group (level 1) entered at line 57 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 39213 strings out of 480608
- 765817 string characters out of 5903630
- 1720003 words of memory out of 5000000
- 54051 multiletter control sequences out of 15000+600000
- 601643 words of font info for 123 fonts, out of 8000000 for 9000
+ 39212 strings out of 480608
+ 765845 string characters out of 5903630
+ 1719942 words of memory out of 5000000
+ 54049 multiletter control sequences out of 15000+600000
+ 603099 words of font info for 126 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  73i,23n,91p,10101b,25635s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/bera/fvmro8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (26 pages, 1280377 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/bera/fvmro8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (26 pages, 1285123 bytes).
 PDF statistics:
- 609 PDF objects out of 1000 (max. 8388607)
- 535 compressed objects within 6 object streams
- 150 named destinations out of 1000 (max. 500000)
- 17385 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 603 PDF objects out of 1000 (max. 8388607)
+ 528 compressed objects within 6 object streams
+ 148 named destinations out of 1000 (max. 500000)
+ 17361 words of extra memory for PDF output out of 20736 (max. 10000000)
 
