@@ -17,6 +17,17 @@
 \endgroup
 
 \datalist[entry]{none/global//global/global}
+  \entry{bayc}{misc}{}
+    \list{publisher}{1}{%
+      {Rolling Stone - Penske Business Media, LLC}%
+    }
+    \field{labeltitlesource}{title}
+  \field{howpublished}{\url{https://www.rollingstone.com/culture/culture-news/bayc-bored-ape-yacht-club-nft-interview-1250461/}}
+    \field{note}{Published: 2021-11-01, Accessed: 2023-02-11}
+    \field{title}{How Four NFT Novices Created a Billion-Dollar Ecosystem of
+  Cartoon Apes}
+  \endentry
+
   \entry{cookies1}{article}{}
     \name{author}{1}{}{%
       {{hash=KDM}{%
@@ -400,31 +411,36 @@
 
   \entry{metaMask}{misc}{}
     \field{labeltitlesource}{title}
-    \field{howpublished}{https://metamask.io/}
+    \field{howpublished}{\url{https://metamask.io/}}
+    \field{note}{Accessed: 2023-01-28}
     \field{title}{MetaMask - A ConsenSys Formation}
   \endentry
 
   \entry{etherscan}{misc}{}
     \field{labeltitlesource}{title}
-    \field{howpublished}{https://etherscan.io/}
+    \field{howpublished}{\url{https://etherscan.io/}}
+    \field{note}{Accessed: 2023-01-30}
     \field{title}{Etherscan}
   \endentry
 
   \entry{openSea}{misc}{}
     \field{labeltitlesource}{title}
-    \field{howpublished}{https://opensea.io/}
+    \field{howpublished}{\url{https://opensea.io/}}
+    \field{note}{Accessed: 2023-01-30}
     \field{title}{OpenSea - Ozone Networks, Inc}
   \endentry
 
   \entry{rainbowKit}{misc}{}
     \field{labeltitlesource}{title}
-    \field{howpublished}{https://www.rainbowkit.com/}
+    \field{howpublished}{\url{https://www.rainbowkit.com/}}
+    \field{note}{Accessed: 2023-01-31}
     \field{title}{Rainbow Kit}
   \endentry
 
   \entry{wagmi}{misc}{}
     \field{labeltitlesource}{title}
-    \field{howpublished}{https://wagmi.sh/}
+    \field{howpublished}{\url{https://wagmi.sh/}}
+    \field{note}{Accessed: 2023-01-31}
     \field{title}{Wagmi React Hooks for Ethereum}
   \endentry
 \enddatalist

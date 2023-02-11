@@ -48,9 +48,9 @@ The value in NFTs thus lies in the fact that they are distinguishable from one a
 
 % How and what kind of information can an NFT store?
 
-For example, when buying a sneaker in an online store, it is feasible to receive an NFT with it as well. This NFT may contain the serial number % Todo: How do physical products get mapped to an NFT?
+For example, when buying a sneaker in an online store, it is feasible to receive an NFT with it as well. This NFT may contain the serial number of the product. With this serial number of the physical shoe saved into the NFT, they are linked together. But how do you I know that the NFT of a product is the original and not a copy with the same serial number? By looking at who created the NFT, which is stored in the blockchain's public information. If you bought a shoe from Nike, then you can verify that the NFT along with the shoe was created by the official NFT account of Nike.
 
-A common use-case of NFTs is to utilize them as an investment tool. Because NFTs have a price attached to them, it is possible to sell them at a higher price than what they were bought for. However, in the realms of this paper, NFTs will not be considered as an investment asset, but rather as a data-tracking mechanism. % Todo: This paragraph is butchered. I was writing it at the main table in Madeira. Have fun rewriting it sucker lmao 01.01.23
+A common use-case of NFTs is to utilize them as an investment tool. Because NFTs have a price attached to them, it is possible to sell them at a higher price than what they were bought for. However, in the realms of this paper, NFTs will not be considered as an investment asset, but rather as a digital twin to real-world products. Utilizing NFTs like this, they can be leveraged as a data-tracking tool.
 
 %
 % Section: Wallets
@@ -58,10 +58,11 @@ A common use-case of NFTs is to utilize them as an investment tool. Because NFTs
 \section{Cryptocurrency Wallets}
 \label{sec:bg_tech:wallets}
 
-% Todo: How the public / private key stuff works with wallets
 Having tangible proof of ownership is what makes NFTs valuable. A cryptocurrency wallet serves the main function of allowing access to the data on a blockchain and transferring cryptocurrencies between two parties \cite{wallets1}.
 
-As mentioned in section \ref{sec:bg_tech:blockchain}, blockchain data is not stored in a central manner. This means that cryptocurrencies and NFTs are not stored inside of the wallet itself. Rather, a wallet gives a user a public and private key pair. This public key (or often referred to as the public address) is then encoded into the NFT on the blockchain when a transaction takes place. With a public address encoded into the NFT's transaction history, the corresponding user can verify ownership by owning the associated private key. In order to access the wallet, a user must associate a password with the private key. Wallets thus allow users to access their cryptocurrency funds, NFTs, see their account balance, and execute transactions. \cite{wallets2}
+As mentioned in section \ref{sec:bg_tech:blockchain}, blockchain data is not stored in a central manner. This means that cryptocurrencies and NFTs are not stored inside of the wallet itself. Rather, a wallet gives a user a public and private key pair. This public key (or often referred to as the public address) is then encoded into the NFT on the blockchain when a transaction takes place. This public address is similar to a conventional account transaction number and may be publicly displayed without security hazards.
+
+With a public address encoded into the NFT's transaction history, the corresponding user can verify ownership by owning the associated private key. In order to access the wallet, a user must associate a password with the private key. Wallets thus allow users to access their cryptocurrency funds, NFTs, see their account balance, and execute transactions. \cite{wallets2}
 
 It is important to note that a user's wallet does directly contain any personal information about the user. When creating a wallet, no name, username, or email in required. Although wallets are technically anonymous, back tracking a wallet's behavior and history may lead to identifying the user that the account is associated with.
 
