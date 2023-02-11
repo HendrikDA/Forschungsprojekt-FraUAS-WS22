@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  10 FEB 2023 23:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.3)  11 FEB 2023 10:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1661,22 +1661,27 @@ Overfull \hbox (1.65161pt too wide) in paragraph at lines 47--48
 
  (./chapters/chapter_Method.tex
 Chapter 5.
+
+Overfull \hbox (7.15099pt too wide) in paragraph at lines 30--31
+\T1/pplj/m/n/10.95 when then pa-per was pub-lished, was in-for-ma-tion leak-ing to un-wanted servers.
+ []
+
 [8
 
 
 
 
 ]
-Overfull \hbox (14.09244pt too wide) in paragraph at lines 51--52
+Overfull \hbox (14.09244pt too wide) in paragraph at lines 53--54
 \T1/pplj/m/n/10.95 MetaMask is a pop-u-lar browser ex-ten-sion which works on most ma-jor browsers.
  []
 
-<./gfx/metamaskPopup.png, id=246, 355.3275pt x 585.18625pt>
+<./gfx/metamaskPopup.png, id=248, 355.3275pt x 585.18625pt>
 File: ./gfx/metamaskPopup.png Graphic file (type png)
 <use ./gfx/metamaskPopup.png>
-Package pdftex.def Info: ./gfx/metamaskPopup.png  used on input line 56.
+Package pdftex.def Info: ./gfx/metamaskPopup.png  used on input line 58.
 (pdftex.def)             Requested size: 227.62204pt x 374.87509pt.
-[9 <./gfx/metamaskPopup.png>]) [10]
+) [9] [10 <./gfx/metamaskPopup.png>]
 \openout2 = `chapters/chapter_zzz_example.aux'.
 
  (./chapters/chapter_zzz_example.tex
@@ -1687,7 +1692,7 @@ Chapter 6.
 
 
 ]
-<./gfx/openSea.png, id=274, 969.6225pt x 729.72626pt>
+<./gfx/openSea.png, id=276, 969.6225pt x 729.72626pt>
 File: ./gfx/openSea.png Graphic file (type png)
 <use ./gfx/openSea.png>
 Package pdftex.def Info: ./gfx/openSea.png  used on input line 34.
@@ -2012,10 +2017,10 @@ Here is how much of TeX's memory you used:
  1143 hyphenation exceptions out of 8191
  73i,23n,95p,10101b,24420s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (26 pages, 1262194 bytes).
+Output written on "/Users/hendrik/Uni/FraUAS/WS22/Forschungsprojekt-FraUAS-WS22/NFT Paper/.texpadtmp/thesis.pdf" (26 pages, 1264194 bytes).
 PDF statistics:
- 583 PDF objects out of 1000 (max. 8388607)
- 512 compressed objects within 6 object streams
+ 585 PDF objects out of 1000 (max. 8388607)
+ 514 compressed objects within 6 object streams
  149 named destinations out of 1000 (max. 500000)
  16881 words of extra memory for PDF output out of 17280 (max. 10000000)
 
