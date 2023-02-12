@@ -1,19 +1,13 @@
 \chapter{Related Work and Market Products}
 \label{ch:SOTA}
-This chapter takes a look at current literature in a similar area as well as existing companies developing products in this field.
+This chapter takes a look at current literature in similar areas as well as existing companies developing products in this field.
 
 %
 % Section: State of the Art
 %
 \section{Current State of the Art}
 \label{sec:sota:stateOfTheArt}
-At the time of writing, research has yet to be conducted on how to mimic the functionality of cookies through cryptocurrency wallets and NFTs. There is an obvious research gap in this are. This paper attempts to fill that gap. 
-
-Online Stores and NFTs / Wallets
-How is user data typically tracked online? 
-Are there already nfts, sites, and tools to track data using nfts? 
-Challenge of high entry barrier with nfts and wallets. A lot of nec- essary know-how 
-
+At the time of writing, research has yet to be conducted on how to mimic the functionality of cookies through cryptocurrency wallets and NFTs. There is an obvious research gap in this are. This paper attempts to fill that gap.
 
 %
 % Section: Related Work
@@ -27,10 +21,10 @@ A plethora of relevant research has been conducted on cookies, including their p
 \label{sec:sota:cookies}
 In the paper \textit{HTTP Cookies: Standards, Privacy, and Politics}, author David M Kristol takes a look at what cookies are, how they are used, and what security implications come along with them. This was done analyzing one of the first cookie standards that was created in the late 90s. \cite{cookies1}
 
-One of the main security concern regarding cookies, even back in 2001 when then paper was published, was information leaking to unwanted servers. The paper also mentions the security concerns of using third-party cookies to gather more detailed user data and thus being able to serve ads catered better towards the end-user. \cite{cookies1}
+One of the main security concerns regarding cookies, even back in 2001 when then paper was published, was information leaking to unwanted servers. The paper also mentions the security concerns of using third-party cookies to gather more detailed user data and thus being able to serve ads catered better towards the end-user. \cite{cookies1}
 
 % NFTs and Web3
-\subsection{NFTs, Wallets, and Web3}
+\subsection{Non-Fungible Tokens, Wallets, and Web3}
 \label{sec:sota:nfts}
 Although there is a gap in the literature as to how NFTs and Wallets can be leveraged to collect user data, there is some general research on Wallets and NFTs.
 
@@ -56,7 +50,7 @@ Especially relevant for this paper is any type of application or product that al
 \label{sec:sota:metaMask}
 MetaMask is a popular browser extension which works on most major browsers. It is a digital wallet and allows for interaction with the blockchain and dApps. With the extension installed, a user can use their wallet to sign in to any dApp that utilizes MetaMask's SSO. \cite{metaMask}
 
-Figure \ref{fig:metamaskPopup} displays MetaMask's popup, when a website requests to connect to your wallet. As can be seen in the figure, the user's public address (0xd4c...) is displayed. With just this information, a plethora of information can be gathered on the user. The website is also requesting to see the wallet's account balance, activity, and will request transactions (which the user will manually have to accept or decline).
+Figure \ref{fig:metamaskPopup} displays MetaMask's popup, when a website requests to connect to a user's wallet. As can be seen in the figure, the user's public address (0xd4c...) is displayed. With just this information, a plethora of information can be gathered on the user. The website is also requesting to see the wallet's account balance, activity, and will request transactions (which the user will manually have to accept or decline).
 
 \begin{figure}[t]
 \includegraphics[width=6cm]{./gfx/metamaskPopup.png}

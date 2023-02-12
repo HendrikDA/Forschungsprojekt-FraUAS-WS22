@@ -14,7 +14,7 @@ Imagine Alice visits an online store for shoes. She does not have a profile for 
 
 A few days later, Alice visits a different online shop. She also does not have an account here and again uses the SSO function to create a profile. Her wallet is thus connected with this new website. Immediately, she receives shoe recommendations from the website that fit her exact taste.
 
-How is the second online shop able to give specific recommendations to Alice just by having a connection set up to her wallet?
+How is the second online shop able to give specific recommendations to Alice just by having a connection set up to her wallet? Although this situation is fictitious, the technology to make it happen already exists.
 
 
 %
@@ -45,7 +45,7 @@ You can also see all transactions. Meaning you can see who an individual is inte
 %
 \section{Example of Programmatically Obtaining Information Via a Wallet}
 \label{sec:methodology:code}
-In order to demonstrate that the above information can truly be gathered on any connecting wallet, a short example will be run through. The frontend will be created using React. The example uses the Web3 component library \textit{Rainbow Kit} \cite{rainbowKit}. Using this UI kit, a connect button for wallets is created. The connection to the Ethereum blockchain is created using the React hooks Library named \textit{wagmi}.
+In order to demonstrate that the above information can truly be gathered on any connecting wallet, a short example will be run through. The frontend will be created using React. The example uses the Web3 component library \textit{Rainbow Kit} \cite{rainbowKit}. Using this UI kit, a connect button for wallets is created. The connection to the Ethereum blockchain is created using the React hooks Library named \textit{wagmi} \cite{wagmi}.
 
 When the button is clicked and specified that you wish to connect via MetaMask, the same popup as in figure \ref{fig:metamaskPopup} appears. Once connected, the frontend receives connection details such as the wallet link, the wallet's connection status, and most importantly the public address of the wallet.
 
@@ -112,12 +112,12 @@ Figure \ref{lst:apiResult} shows the response to the API call in listing \ref{ls
   {
     "blockNumber": "16526088",
     "timeStamp": "1675159439",
-    "hash": "0xdeeb04083dce62a599e4df0050f29eace79a517649dce48b8a1f00961f39742c",
+    "hash": "0xdeeb...",
     "nonce": "55820",
-    "blockHash": "0x8bcdc1acada5e191ecde74131f3098e42c1d886a48a6edd766425c725d976455",
-    "from": "0x36c72892fcc72b52fa3b82ed3bb2a467d9079b9a",
-    "contractAddress": "0x708e73c7a0d81e00e848c902217d2d39e56d65af",
-    "to": "0xd4c656b454bae586ff3afc28171d2981a1f17702",
+    "blockHash": "0x8bcdc...",
+    "from": "0x36c7...",
+    "contractAddress": "0x708e...",
+    "to": "0xd4c6...",
     "tokenID": "1009",
     "tokenName": "BoredApeFrens",
     "tokenSymbol": "BAF",
@@ -136,7 +136,7 @@ Figure \ref{lst:apiResult} shows the response to the API call in listing \ref{ls
 
 Creating this quick example shows that obtaining personal information through a Wallet can easily be achieved. With enough transactions in a user's account, the behavior can be analyzed and used to create content catered toward their interests.
 
-For example, with several transactions in a Wallet's history, it is possible to look at who the user is interacting with. Who are they receiving NFTs from? Who are they sending them to? If they are primarily receiving NFTs from shoe brands, it is feasible to conclude that they have an interests in shoes.
+For example, with several transactions in a Wallet's history, it is possible to look at who the user is interacting with. Who are they receiving NFTs from? Who are they sending them to? If they are  receiving large amounts of NFTs from shoe brands, it is feasible to conclude that they have an interests in shoes.
 
 By looking at the token name, the token ID, and the image associated with the token, it is possible to know what the NFT represents. This can be, for example, a specific sneaker from a specific brand.
 
